@@ -1,0 +1,39 @@
+/* Basic reset */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Body styling */
+body {
+  font-family: sans-serif;
+  padding: 20px;
+  background-color: #f2f2f2;
+}
+
+/* Headings and paragraph */
+h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+p {
+  margin-bottom: 15px;
+}
+
+/* Box model demo */
+.box {
+  background-color: #ffffff;
+  border: 2px solid #999;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+
+/* Button styling */
+button {
+  padding: 10px 15px;
+  border: none;
+  background-color: #4caf50;
+  color: white;
+}
